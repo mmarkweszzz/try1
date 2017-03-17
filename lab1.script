@@ -1,0 +1,6 @@
+Script started on 2017年03月17日 (週五) 17時25分03秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/mmarkweszzz/try1.git
+fatal: destination path 'try1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cat lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月17日 (週五) 17時25分50秒
